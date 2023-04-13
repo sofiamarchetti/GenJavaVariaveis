@@ -17,10 +17,7 @@ public class Exercicio1 {
 		
 		novosalario = salario+abono;
 		
-		System.out.printf("\nNovo salário: %.2f",novosalario);
-		
-		salario = (float) Math.sqrt(abono);
-				
+		System.out.printf("\nNovo salário: %.2f",novosalario);				
 	}
 
 }

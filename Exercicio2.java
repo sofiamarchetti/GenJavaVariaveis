@@ -1,4 +1,4 @@
-package JavaTech;
+package Variaveis;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaTech;
+package Variaveis;
 
 import java.util.Scanner;
 
@@ -17,7 +17,8 @@ public class Exercicio1 {
 		
 		novosalario = salario+abono;
 		
-		System.out.printf("\nNovo salário: %.2f",novosalario);				
+		System.out.printf("\nNovo salário: %.2f",novosalario);
+				
 	}
 
 }
